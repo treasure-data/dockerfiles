@@ -1,4 +1,4 @@
 dockerfiles
 ===========
 
-The collection of Dockerfile
+The collection of Treasure Data's Dockerfile
